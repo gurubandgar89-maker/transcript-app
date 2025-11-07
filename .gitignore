@@ -1,0 +1,23 @@
+# Python virtual environments
+venv/
+env/
+backend/venv/
+backend/whisper/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules (frontend)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# System files
+.DS_Store
+*.log
+*.exe
+*.dll
+.vscode/
